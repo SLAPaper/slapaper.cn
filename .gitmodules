@@ -1,0 +1,3 @@
+[submodule "Fakemons"]
+	path = Fakemons
+	url = https://github.com/SLAPaper/Fakemons.git
